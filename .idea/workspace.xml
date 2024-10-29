@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="597fe874-4509-451f-95a9-cba074a66506" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Lab2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2-Zad1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2-Zad2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2-Zad3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2-Zad4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2-Zad5AB.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2-Zad6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2-Zad7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2-Zad8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2-Zad9.py" afterDir="false" />
-    </list>
+    <list default="true" id="597fe874-4509-451f-95a9-cba074a66506" name="Changes" comment="Lab2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,6 +60,19 @@
       <option name="presentableId" value="Default" />
       <updated>1730152056039</updated>
     </task>
+    <task id="LOCAL-00001" summary="Lab2">
+      <option name="closed" value="true" />
+      <created>1730233837991</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730233837991</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lab2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab2" />
   </component>
 </project>
