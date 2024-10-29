@@ -1,6 +1,6 @@
-litera=input("Wprowadź litere: ")
+litera = input("Wprowadź literę: ")
 
 if litera.isalpha() and len(litera) == 1:
-    print(litera, "to duża litera." if litera.isupper() else "to mała litera.")
+    print("\n" + litera + (" to duża litera." if litera.isupper() else " to mała litera."))
 else:
-    print("Wprowadź tylko jedną literę.")
+    print("\nWprowadź tylko jedną literę.")

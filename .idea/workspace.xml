@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="597fe874-4509-451f-95a9-cba074a66506" name="Changes" comment="Lab2" />
+    <list default="true" id="597fe874-4509-451f-95a9-cba074a66506" name="Changes" comment="Lab2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2-Zad1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2-Zad1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2-Zad2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2-Zad2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2-Zad6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2-Zad6.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;00Dawid00&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/00Dawid00/Lab2&quot;,
+    &quot;accountId&quot;: &quot;71a7af4e-13da-43d3-a88f-0942ac09ff8b&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -36,12 +53,14 @@
     "Python.Lab2-Zad3.executor": "Debug",
     "Python.Lab2-Zad4.executor": "Debug",
     "Python.Lab2-Zad5.executor": "Run",
+    "Python.Lab2-Zad5AB.executor": "Debug",
     "Python.Lab2-Zad6.executor": "Debug",
     "Python.Lab2-Zad7.executor": "Debug",
     "Python.Lab2-Zad8.executor": "Debug",
     "Python.Lab2-Zad9.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -68,8 +87,27 @@
       <option name="project" value="LOCAL" />
       <updated>1730233837991</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Lab2">
+      <option name="closed" value="true" />
+      <created>1730234027855</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730234027855</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lab2" />

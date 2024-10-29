@@ -9,4 +9,4 @@ if x>z:
 if y>z:
     y, z = z, y
 
-print("Kolejność od najmniejszej do największej:", x, y, z)
+print("\nKolejność od najmniejszej do największej:", x, y, z)
